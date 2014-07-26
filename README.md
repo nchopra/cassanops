@@ -1,4 +1,6 @@
 cassanops
 =========
 
-Cassandra Dev Ops on NodeJS
+A NodeJS web application for Cassandra Dev Ops
+
+
